@@ -2,7 +2,7 @@
 
 # ➤ Food Image Analyzer 🌠
 
-[App](https://harry2k21.github.io/Recepie-App/)
+[App](https://harry2k21.github.io//Food-Image-Analyzer/)
 
 
 
